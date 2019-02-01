@@ -5,7 +5,7 @@ Insira seu nome do lado da funcionalidade core do app:
 
   -Musica: 
   
-  -Agenda: Enzo Jorge,
+  -Agenda: Enzo Jorge, Fausto Jorge
   
   -Pautas: 
   
